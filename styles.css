@@ -29,4 +29,6 @@ body{
 .inline {
 	display: inline;
 	padding: auto 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
